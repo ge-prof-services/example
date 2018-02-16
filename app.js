@@ -2,6 +2,6 @@
 
 var config = require('./config');
 
-console.log('fall');
+console.log('autmn');
 
 console.log(config.weekDay);
