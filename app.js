@@ -1,4 +1,8 @@
 //sample program
 console.log('trust');
 
-console.log('fall');
+var config = require('./config');
+
+console.log('autmn');
+
+console.log(config.weekDay);
