@@ -1,3 +1,3 @@
 //sample program
 
-console.log('now');
+console.log('tradition');
