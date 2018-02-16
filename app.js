@@ -1,3 +1,3 @@
 //sample program
 
-console.log('religion');
+console.log('fall');
