@@ -7,4 +7,4 @@ console.log('autmn');
 
 console.log(config.weekDay);
 
-console.log('my anadarko edit');
+console.log('my anadarko edit again2');
