@@ -1,3 +1,3 @@
 //sample program
 
-console.log('yo');
+console.log('now');
