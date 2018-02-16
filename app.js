@@ -1,3 +1,3 @@
 //sample program
 
-console.log('tradition');
+console.log('religion');
